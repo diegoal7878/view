@@ -35,8 +35,9 @@ http://38.183.182.166:8000/play/a12u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Peru Noticias (360p)" tvg-group="TV" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="PERU",TV Peru Noticias (360p)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Peru Internacional (720p)" tvg-group="TV" tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="PERU OTROS",TV Peru Internacional (720p)
+#EXTINF:-1 tvg-id="" tvg-name="TV Peru Internacional (720p)" tvg-group="TV" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPEINTERNACIONAL.png" group-title="PERU OTROS",TV Peru Internacional (720p)
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+
 
 
 
@@ -123,7 +124,7 @@ https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Vevo Iconos Latinos" tvg-group="TV" tvg-logo="https://m.media-amazon.com/images/I/41-BIhPLNdL.png" group-title="MUNDO",Vevo Iconos Latinos
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Iconos Latinos" tvg-group="TV" tvg-logo="https://m.media-amazon.com/images/I/41-BIhPLNdL.png" group-title="PLUTO",Vevo Iconos Latinos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine XOXO" tvg-group="TV" tvg-logo="https://m.media-amazon.com/images/I/41-BIhPLNdL.png" group-title="PLUTO",Cine XOXO
@@ -281,7 +282,7 @@ https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Español (1080p)" tvg-group="TV" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="MUNDO",CGTN Español (1080p)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine Canal" tvg-group="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Cinecanal_%282002%29.svg/revision/latest?cb=20201120200126" group-title="MUNDO",Cine Canal
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal" tvg-group="TV" tvg-logo="https://images.seeklogo.com/logo-png/3/1/cinecanal-logo-png_seeklogo-30450.png" group-title="MUNDO",Cine Canal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Novelas" tvg-group="TV" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest/scale-to-width-down/180?cb=20220403004504" group-title="MUNDO",Sony Novelas
