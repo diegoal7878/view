@@ -175,8 +175,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="" tvg-name="CSI Miami en Español" tvg-group="TV" tvg-logo="https://i5.walmartimages.com/seo/CSI-Miami-The-Complete-Series-DVD_20f69d4a-76bf-4569-b216-c40ccb235239.597b99b0615f2220e90b463ee58f780f.jpeg" group-title="PLUTO",CSI Miami en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Cine Suspenso (720p)" tvg-group="TV" tvg-logo="https://i5.walmartimages.com/seo/CSI-Miami-The-Complete-Series-DVD_20f69d4a-76bf-4569-b216-c40ccb235239.597b99b0615f2220e90b463ee58f780f.jpeg" group-title="PLUTO",Cine Suspenso (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 
 
@@ -235,7 +235,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zylo Cine Friki (1080p)" tvg-group="TV" tvg-logo="https://cdn.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png?w=128" group-title="RAKUTEN",Zylo Cine Friki (1080p)
 https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh! en espanol" tvg-group="TV" tvg-logo="https://cdn.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png?w=128" group-title="RAKUTEN",Yu-Gi-Oh! en espanol
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh! en espanol" tvg-group="TV" tvg-logo="https://images.seeklogo.com/logo-png/15/1/yu-gu-oh-logo-png_seeklogo-155449.png" group-title="RAKUTEN",Yu-Gi-Oh! en espanol
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vive Kanal D Drama (1080p)" tvg-group="TV" tvg-logo="https://cdn.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png?w=128" group-title="RAKUTEN",Vive Kanal D Drama (1080p)
@@ -244,7 +244,7 @@ https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vevo Pop Spain (1080p)" tvg-group="TV" tvg-logo="https://cdn.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png?w=128" group-title="RAKUTEN",Vevo Pop Spain (1080p)
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Beyblade en Español (1080p)" tvg-group="TV" tvg-logo="https://cdn.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png?w=128" group-title="RAKUTEN",Beyblade en Español (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="Beyblade en Español (1080p)" tvg-group="TV" tvg-logo="https://i.pinimg.com/736x/b3/2e/1f/b32e1f221ea82f65a56dfb3644c490b7.jpg" group-title="RAKUTEN",Beyblade en Español (1080p)
 https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ideas en 5 minutos (1080p)" tvg-group="TV" tvg-logo="https://cdn.aptoide.com/imgs/1/8/b/18bce0f0d9115b1b33d644bda68dcb53_icon.png?w=128" group-title="RAKUTEN",Ideas en 5 minutos (1080p)
