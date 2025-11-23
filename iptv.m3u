@@ -169,6 +169,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c0671
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead ESP (720p)" tvg-group="TV" tvg-logo="https://m.media-amazon.com/images/I/41-BIhPLNdL.png" group-title="PLUTO",The Walking Dead ESP (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-id="" tvg-name="CSI en Español" tvg-group="TV" tvg-logo="https://es.web.img3.acsta.net/pictures/15/08/25/13/24/395336.jpg" group-title="PLUTO",CSI en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
+
+#EXTINF:-1 tvg-id="" tvg-name="CSI Miami en Español" tvg-group="TV" tvg-logo="https://i5.walmartimages.com/seo/CSI-Miami-The-Complete-Series-DVD_20f69d4a-76bf-4569-b216-c40ccb235239.597b99b0615f2220e90b463ee58f780f.jpeg" group-title="PLUTO",CSI Miami en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506
+
 
 
 
@@ -308,12 +314,6 @@ https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="CSI en Español" tvg-group="TV" tvg-logo="https://es.web.img3.acsta.net/pictures/15/08/25/13/24/395336.jpg" group-title="SERIE",CSI en Español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
-
-#EXTINF:-1 tvg-id="" tvg-name="CSI Miami en Español" tvg-group="TV" tvg-logo="https://i5.walmartimages.com/seo/CSI-Miami-The-Complete-Series-DVD_20f69d4a-76bf-4569-b216-c40ccb235239.597b99b0615f2220e90b463ee58f780f.jpeg" group-title="SERIE",CSI Miami en Español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506
 
 
 
